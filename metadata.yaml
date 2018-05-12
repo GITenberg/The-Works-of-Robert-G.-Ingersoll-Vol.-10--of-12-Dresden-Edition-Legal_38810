@@ -1,0 +1,37 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-10--of-12-Dresden-Edition-Legal_38810
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, Bob
+    - Ingersoll, R. G. (Robert Green)
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+tableOfContents: Address to the jury in the Munn trial -- Closing address to the jury
+  in the first Star-route trial -- Opening address to the jury in the second Star-route
+  trial -- Closing address in second Star-route trial -- Address to the jury in the
+  Davis will case -- Argument before the Vice-Chancellor in the Russell case.
+title: 'The Works of Robert G. Ingersoll, Vol. 10 (of 12)
+
+  Dresden Edition—Legal'
+url: http://www.gutenberg.org/ebooks/38810
